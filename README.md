@@ -11,5 +11,5 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Github stats](https://github-readme-stats.vercel.app/api?username=pankaj892)
+
 ![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=pankaj892&show_icons=true&hide_border=true)
