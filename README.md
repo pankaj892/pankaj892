@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 ## Your short description
-- 🔭 I’m currently working on - Flutter
+- 🔭 I’m currently working on - Flutter and Creating a game for google assistant
 - 🌱 I’m currently learning - Python,Flutter 
 - 👯 I’m looking to collaborate on - Python Projects
 - 💬 Ask me about - Technology and Stocks 
@@ -11,7 +11,7 @@
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankaj892&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankaj892&count_private=true&include_all_commits=true&theme=buefy)](https://google.com)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
