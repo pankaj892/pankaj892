@@ -1,6 +1,7 @@
 ### Hi, I'm Pankaj Biradar an Open Source Enthusiast <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <code><img align="right" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300px"><code>
+  
 ## About
 - 🔭 I’m currently working on - Flutter and Creating a game for google assistant
 - 🌱 I’m currently learning - Python,Flutter 
@@ -10,7 +11,6 @@
 - ⚡ Fun fact - I usually like to code and listen to soothing music simultaneously 🎧💻 
 - 💻 Help me in - Competitive Programming and Linux🐧
 - 😃 Pronouns - Him/He
-<!-- Also feel free to update second URL to any URL -->
 [![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankaj892&count_private=true&include_all_commits=true&theme=buefy&show_icons=true)](https://github.com/pankaj892/repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj892&layout=compact)](https://github.com/pankaj892/github-readme-stats)
