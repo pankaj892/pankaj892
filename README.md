@@ -3,7 +3,7 @@
 <code><img align="right" src = "https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300px" ></code>
 
 
-## Your short description
+## About
 - 🔭 I’m currently working on - Flutter and Creating a game for google assistant
 - 🌱 I’m currently learning - Python,Flutter 
 - 👯 I’m looking to collaborate on - Python and Flutter
