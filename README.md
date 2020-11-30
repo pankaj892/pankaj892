@@ -5,13 +5,13 @@
 - 🔭 I’m currently working on - Flutter and Creating a game for google assistant
 - 🌱 I’m currently learning - Python,Flutter 
 - 👯 I’m looking to collaborate on - Python Projects
-- 💬 Ask me about - Technology and Stocks 
+- 💬 Ask me about - Technology and Finance 
 - 🥅 2021 Goal - Just Try to contribute as much as possible to Open Source
 - ⚡ Fun fact - I hate Maths but I love Binary 😂
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankaj892&count_private=true&include_all_commits=true&theme=buefy&show_icons=true)]
+[![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankaj892&count_private=true&include_all_commits=true&theme=buefy&show_icons=true)](https://www.google.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj892&layout=compact)](https://github.com/pankaj892/github-readme-stats)
 
