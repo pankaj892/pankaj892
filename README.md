@@ -15,6 +15,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj892&layout=compact)](https://github.com/pankaj892/github-readme-stats)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pankaj892.visitor-badge)
+
 ## Languages and Frameworks
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -27,7 +29,6 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pankaj892.visitor-badge)
 
 <!-- This section you create this variables that are used above -->
 [website]: https://assistant.google.com/services/a/uid/000000710c8787aa?hl=en
