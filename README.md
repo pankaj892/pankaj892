@@ -1,8 +1,6 @@
 ### Hi, I'm Pankaj Biradar an Open Source Enthusiast <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<code><img align="right" src = "https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300px" ></code>
-
-
+<code><img align="right" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300px"><code>
 ## About
 - 🔭 I’m currently working on - Flutter and Creating a game for google assistant
 - 🌱 I’m currently learning - Python,Flutter 
