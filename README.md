@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on - Flutter and Creating a game for Google Assistant <a href="https://assistant.google.com/services/a/uid/000000710c8787aa?hl=en">Check it out 🎲</a>
 
-- 🌱 I’m currently learning - Python,Flutter 
+- 🌱 I’m currently learning - Python,Flutter.
 
 - 👯 I’m looking to collaborate on - Python and Flutter
 
-- 💬 Ask me about - Custom ROMS,Android 
+- 💬 Ask me about - Custom ROMS,Android. 
 
 - 🥅 2021 Goal - Try to contribute as much as possible to Open Source
 
@@ -38,15 +38,12 @@
   <img src="https://img.icons8.com/color/64/000000/sql.png" alt="sql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"
-  width="40"
-  height="40"/>
-</a>
+  width="40" height="40"/></a>
  <a href="https://flutter.dev/" target="_blank"> 
- <img src="https://img.icons8.com/color/48/000000/flutter.png" alt = "flutter" width="40"
- height="40"/></a>
+ <img src="https://img.icons8.com/color/48/000000/flutter.png" alt = "flutter" width="40" height="40"/></a>
 </p>
 
-<h2 align="left>Connect with Me: </h2>
+<h2 align="left> Connect with Me: </h2>
 <a href="https://dev.to/pankaj892" target="blank"> 
 <img align="center" src="https://img.icons8.com/windows/32/26e07f/dev.png" alt="pankaj892" height="40" width="40" /></a>
 <a href="https://twitter.com/pankaj89tweets" target="_blank" rel=”noopener noreferrer”> <img align="center" src="https://img.icons8.com/fluent/48/26e07f/twitter.png" alt="pankaj89tweets" height="40" width="40" /></a> 
