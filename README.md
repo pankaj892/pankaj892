@@ -1,4 +1,4 @@
-<img  width="350" src="./pic2.png">
+<img  width="350" src="./pic2.jpg">
 
 # Hi I am Pankaj Biradar an Open Source Enthusiast and a Python Developer
 
