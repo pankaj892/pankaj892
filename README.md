@@ -1,39 +1,83 @@
-### Hi, I'm Pankaj Biradar an Open Source Enthusiast <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<code><img align="right" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="300px"><code>
+<img  width="350" src="./pic2.png">
 
-# About
-### - 🔭 I’m currently working on - Flutter and Creating a game for google assistant
-### - 🌱 I’m currently learning - Python,Flutter 
-### - 👯 I’m looking to collaborate on - Python and Flutter
-### - 💬 Ask me about - Custom ROMS anytime 
-### - 🥅 2021 Goal - Try to contribute as much as possible to Open Source
-### - ⚡ Fun fact - I usually like to code and listen to soothing music simultaneously 🎧💻 
-### - 💻 Help me in - Competitive Programming and Linux🐧
-### - 😃 Pronouns - Him/He
+# Hi I am Pankaj Biradar an Open Source Enthusiast and a Python Developer
 
-[![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankaj892&count_private=true&include_all_commits=true&theme=buefy&show_icons=true)](https://github.com/pankaj892/repositories)
+<h3 align="left">
+ About </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj892&layout=compact)](https://github.com/pankaj892/github-readme-stats)
+- 🔭 I’m currently working on - Flutter and Creating a game for Google Assistant <a href="https://assistant.google.com/services/a/uid/000000710c8787aa?hl=en">Check it out 🎲</a>
+
+- 🌱 I’m currently learning - Python,Flutter 
+
+- 👯 I’m looking to collaborate on - Python and Flutter
+
+- 💬 Ask me about - Custom ROMS,Android 
+
+- 🥅 2021 Goal - Try to contribute as much as possible to Open Source
+
+- ⚡ Fun fact - I usually like to code and listen to soothing music simultaneously 🎧💻 
+
+- 💻 Help me in - Competitive Programming and Linux🐧
+- 😃 Pronouns - Him/He
+
+- 📧 How to reach me - **pankaj28988@gmail.com**
+
+
+
+<h3 align="left"> Languages and Tools I use:</h3>
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"
+  alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+ <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank">  <img src="https://img.icons8.com/color/50/000000/html-5.png" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.icons8.com/color/64/000000/sql.png" alt="sql" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"
+  width="40"
+  height="40"/>
+</a>
+ <a href="https://flutter.dev/" target="_blank"> 
+ <img src="https://img.icons8.com/color/48/000000/flutter.png" alt = "flutter" width="40"
+ height="40"/></a>
+</p>
+
+<h2 align="left>Connect with Me: </h2>
+<a href="https://dev.to/pankaj892" target="blank"> 
+<img align="center" src="https://img.icons8.com/windows/32/26e07f/dev.png" alt="pankaj892" height="40" width="40" /></a>
+<a href="https://twitter.com/pankaj89tweets" target="_blank" rel=”noopener noreferrer”> <img align="center" src="https://img.icons8.com/fluent/48/26e07f/twitter.png" alt="pankaj89tweets" height="40" width="40" /></a> 
+<a href="https://in.linkedin.com/in/pankaj-biradar" target="_blank" rel=”noopener noreferrer”> <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="pankaj_linkedin" height="40" width="40" /></a> 
+<a href="https://www.instagram.com/_pankaj89_/" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
+alt="pankaj_ig_" height="40" width="40" /></a> 
+<a href="https://dribbble.com/pankaj892" target="_blank" rel=”noopener noreferrer”> <img align="center" src="https://img.icons8.com/dusk/64/000000/dribbble.png" alt="pankaj892" height="40" width="40" /></a> 
+</p>
+<h3>
+<details>
+<summary><strong>My Github Stats</strong></summary>
+<img src = "https://github-readme-stats.vercel.app/api?username=pankaj892&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" alt="Pankaj's Github Stats"
+width="400" />
+</details>
+</h3>
+
+<h3>
+<details>
+<summary><strong>Mostly Used Languages </strong></summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj892&layout=compact" alt="Pankaj's mostly used Languages"/>
+</details>
+</h3>
+
+<h3>
+<details>
+<summary><strong>My Github Streak</strong></summary>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj892&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Pankaj's github streak" width="450" />
+</details>
+</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pankaj892.visitor-badge)
 
-## Languages and Frameworks
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-## Connect with me:
-[<img align="left" alt="Google Assistant" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-
-<!-- This section you create this variables that are used above -->
-[website]: https://assistant.google.com/services/a/uid/000000710c8787aa?hl=en
-[linkedin]: https://www.linkedin.com/in/pankaj-biradar
-[facebook]: https://www.facebook.com/eduardo.saverin
-
-
-
+## Thanks for checking out my profile bye and take care ✌
+<img src = "./pic3.jpg" width="300">
