@@ -43,7 +43,7 @@
  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt = "flutter" width="40" height="40"/></a>
 </p>
 
-<h2 align="left> Connect with Me: </h2>
+<h2 align="left"> Connect with Me: </h2>
 <a href="https://dev.to/pankaj892" target="blank"> 
 <img align="center" src="https://img.icons8.com/windows/32/26e07f/dev.png" alt="pankaj892" height="40" width="40" /></a>
 <a href="https://twitter.com/pankaj89tweets" target="_blank"> 
