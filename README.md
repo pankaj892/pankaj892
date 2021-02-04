@@ -18,6 +18,7 @@
 - ⚡ Fun fact - I usually like to code and listen to soothing music simultaneously 🎧💻 
 
 - 💻 Help me in - Competitive Programming and Linux🐧
+
 - 😃 Pronouns - Him/He
 
 - 📧 How to reach me - **pankaj28988@gmail.com**
@@ -44,6 +45,7 @@
 </p>
 
 <h2 align="left"> Connect with Me: </h2>
+<p align="left">
 <a href="https://dev.to/pankaj892" target="blank"> 
 <img align="center" src="https://img.icons8.com/windows/32/26e07f/dev.png" alt="pankaj892" height="40" width="40" /></a>
 <a href="https://twitter.com/pankaj89tweets" target="_blank"> 
@@ -51,8 +53,12 @@
 <a href="https://in.linkedin.com/in/pankaj-biradar" target="_blank"> <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="pankaj_linkedin" height="40" width="40" /></a> 
 <a href="https://www.instagram.com/_pankaj89_/" target="_blank" ><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
 alt="pankaj_ig_" height="40" width="40" /></a> 
-<a href="https://dribbble.com/pankaj892" target="_blank" > <img align="center" src="https://img.icons8.com/dusk/64/000000/dribbble.png" alt="pankaj892" height="40" width="40" /></a> 
-</p>
+<a href="https://dribbble.com/pankaj892" target="_blank" > 
+<img align="center" src="https://img.icons8.com/dusk/64/000000/dribbble.png" alt="pankaj892" height="40" width="40" /></a>
+<a href="https://facebook.com/eduardo.saverin.892/" target="_blank" >
+<img align="center" src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" alt="pankaj_facebook" height="40" width="40" /></a>
+</p></h2>
+
 <h3>
 <details>
 <summary><strong>My Github Stats</strong></summary>
