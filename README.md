@@ -44,7 +44,7 @@
  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt = "flutter" width="40" height="40"/></a>
 </p>
 
-<h2 align="left"> Connect with Me: </h2>
+<h3 align="left"> Connect with Me: </h3>
 <p align="left">
 <a href="https://dev.to/pankaj892" target="blank"> 
 <img align="center" src="https://img.icons8.com/windows/32/26e07f/dev.png" alt="pankaj892" height="40" width="40" /></a>
@@ -77,7 +77,7 @@ width="400" />
 <h3>
 <details>
 <summary><strong>My Github Streak</strong></summary>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj892&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Pankaj's github streak" width="450" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj892&show_icons=true&locale=en&layout=compact" alt="Pankaj's github streak" width="450" />
 </details>
 </h3>
 
