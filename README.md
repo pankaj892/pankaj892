@@ -1,4 +1,4 @@
-<img  width="350" src="./pic2.png">
+<img align="right"  width="350" src="./pic2.jpg">
 
 # Hi I am Pankaj Biradar an Open Source Enthusiast and a Python Developer
 
@@ -18,6 +18,7 @@
 - ⚡ Fun fact - I usually like to code and listen to soothing music simultaneously 🎧💻 
 
 - 💻 Help me in - Competitive Programming and Linux🐧
+
 - 😃 Pronouns - Him/He
 
 - 📧 How to reach me - **pankaj28988@gmail.com**
@@ -43,15 +44,21 @@
  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt = "flutter" width="40" height="40"/></a>
 </p>
 
-<h2 align="left> Connect with Me: </h2>
+<h3 align="left"> Connect with Me: </h3>
+<p align="left">
 <a href="https://dev.to/pankaj892" target="blank"> 
 <img align="center" src="https://img.icons8.com/windows/32/26e07f/dev.png" alt="pankaj892" height="40" width="40" /></a>
-<a href="https://twitter.com/pankaj89tweets" target="_blank" rel=”noopener noreferrer”> <img align="center" src="https://img.icons8.com/fluent/48/26e07f/twitter.png" alt="pankaj89tweets" height="40" width="40" /></a> 
-<a href="https://in.linkedin.com/in/pankaj-biradar" target="_blank" rel=”noopener noreferrer”> <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="pankaj_linkedin" height="40" width="40" /></a> 
-<a href="https://www.instagram.com/_pankaj89_/" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
+<a href="https://twitter.com/pankaj89tweets" target="_blank"> 
+<img align="center" src="https://img.icons8.com/fluent/48/26e07f/twitter.png" alt="pankaj89tweets" height="40" width="40" /></a> 
+<a href="https://in.linkedin.com/in/pankaj-biradar" target="_blank"> <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="pankaj_linkedin" height="40" width="40" /></a> 
+<a href="https://www.instagram.com/_pankaj89_/" target="_blank" ><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
 alt="pankaj_ig_" height="40" width="40" /></a> 
-<a href="https://dribbble.com/pankaj892" target="_blank" rel=”noopener noreferrer”> <img align="center" src="https://img.icons8.com/dusk/64/000000/dribbble.png" alt="pankaj892" height="40" width="40" /></a> 
+<a href="https://dribbble.com/pankaj892" target="_blank" > 
+<img align="center" src="https://img.icons8.com/dusk/64/000000/dribbble.png" alt="pankaj892" height="40" width="40" /></a>
+<a href="https://facebook.com/eduardo.saverin.892/" target="_blank" >
+<img align="center" src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" alt="pankaj_facebook" height="40" width="40" /></a>
 </p>
+
 <h3>
 <details>
 <summary><strong>My Github Stats</strong></summary>
@@ -70,7 +77,7 @@ width="400" />
 <h3>
 <details>
 <summary><strong>My Github Streak</strong></summary>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj892&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Pankaj's github streak" width="450" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj892&show_icons=true&locale=en&layout=compact" alt="Pankaj's github streak" width="450" />
 </details>
 </h3>
 
