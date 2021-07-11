@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact - I usually like to code and listen to soothing music simultaneously 🎧💻 
 
-- 💻 Help me in - Competitive Programming and Linux🐧
+- 💻 Help me in - Cloud Computing and Linux🐧
 
 - 😃 Pronouns - Him/He
 
