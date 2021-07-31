@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on - Flutter 
 
-- 🌱 I’m currently learning - Python,Flutter.
+- 🌱 I’m currently learning - Python,Flutter,Cloud Computing ☁💻.
 
 - 👯 I’m looking to collaborate on - Python and Flutter
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact - I usually like to code and listen to soothing music simultaneously 🎧💻 
 
-- 💻 Help me in - Cloud Computing ☁💻 and Linux🐧
+- 💻 Help me in - Cloud Computing ☁💻 and DevOps
 
 - 😃 Pronouns - Him/He
 
