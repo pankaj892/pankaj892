@@ -1,3 +1,4 @@
+<!--START_SECTION:waka-->
 <img align="right"  width="350" src="./pic2.jpg">
 
 # Hi I am Pankaj Biradar an Open Source Enthusiast and a Python Developer
@@ -67,6 +68,7 @@ width="400" />
 </details>
 </h3>
 
+
 <h3>
 <details>
 <summary><strong>Mostly Used Languages </strong></summary>
@@ -85,3 +87,4 @@ width="400" />
 
 ## Thanks for checking out my profile bye and take care ✌
 <img src = "./pic3.jpg" width="300">
+<!--END_SECTION:waka-->
