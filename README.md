@@ -88,4 +88,75 @@ width="400" />
 ## Thanks for checking out my profile bye and take care ✌
 <img src = "./pic3.jpg" width="300">
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 375 Contributions in the Year 2021
+ > 
+> 📦 82.9 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 125 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.61% 
+🌆 Daytime    79 commits     ██████████░░░░░░░░░░░░░░░   40.1% 
+🌃 Evening    97 commits     ████████████░░░░░░░░░░░░░   49.24% 
+🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
+Tuesday      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.55% 
+Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.15% 
+Thursday     57 commits     ███████░░░░░░░░░░░░░░░░░░   28.93% 
+Friday       42 commits     █████░░░░░░░░░░░░░░░░░░░░   21.32% 
+Saturday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
+Sunday       36 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.27%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59% 
+HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69% 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/pankaj892/pankaj892/main/charts/bar_graph.png) 
+
+
+ Last Updated on 24/08/2021
 <!--END_SECTION:waka-->
