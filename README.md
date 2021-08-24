@@ -86,10 +86,10 @@ width="400" />
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pankaj892.visitor-badge)
 
 ## Thanks for checking out my profile bye and take care ✌
-<img src = "./pic3.jpg" width="300">
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+<img src = "./pic3.jpg" width="300"/>
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+<--START_ACTION:waka-->
 **🐱 My Github Data** 
 
 > 🏆 375 Contributions in the Year 2021
