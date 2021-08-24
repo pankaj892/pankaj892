@@ -83,11 +83,6 @@ width="400" />
 </details>
 </h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pankaj892.visitor-badge)
-
-## Thanks for checking out my profile bye and take care ✌
-<img src = "./pic3.jpg" width="300"/>
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 <!--START_ACTION:waka-->
@@ -125,22 +120,6 @@ Sunday       36 commits     ████░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
 
 **I Mostly Code in JavaScript** 
 
