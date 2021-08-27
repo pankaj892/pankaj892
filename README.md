@@ -85,6 +85,8 @@ width="400" />
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+
 <!--START_ACTION:waka-->
 **🐱 My Github Data** 
 
