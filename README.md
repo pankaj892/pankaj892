@@ -6,17 +6,17 @@
 <h3 align="left">
  About Me ! </h3>
 
-- 🔭 I’m currently working on - Flutter 
+- 🔭 I’m currently working on - Python 
 
-- 🌱 I’m currently learning - Python,Flutter,Cloud Computing ☁💻.
+- 🌱 I’m currently learning - Python,Cloud Computing ☁💻.
 
-- 👯 I’m looking to collaborate on - Python and Flutter
+- 👯 I’m looking to collaborate on - Python and Cloud COmputing.
 
-- 💬 Ask me about - Custom ROMS,Android. 
+- 💬 Ask me about - Custom ROMS,Android,Video Games 🎮. 
 
-- 🥅 2021 Goal - Try to contribute as much as possible to Open Source
+- 🥅 2021 Goal - Contribute as much as possible to Open Source.
 
-- ⚡ Fun fact - I usually like to code and listen to soothing music simultaneously 🎧💻 
+- ⚡ Fun fact - I prefer tabs over spaces 
 
 - 💻 Help me in - Cloud Computing ☁💻 and DevOps
 
