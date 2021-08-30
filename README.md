@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning - Python,Cloud Computing ☁💻.
 
-- 👯 I’m looking to collaborate on - Python and Cloud COmputing.
+- 👯 I’m looking to collaborate on - Python and Cloud Computing.
 
-- 💬 Ask me about - Custom ROMS,Android,Video Games 🎮. 
+- 💬 Ask me about - Custom ROMS,Android,Video Games🎮. 
 
 - 🥅 2021 Goal - Contribute as much as possible to Open Source.
 
