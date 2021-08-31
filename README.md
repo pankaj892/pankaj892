@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact - I prefer tabs over spaces 
 
-- 💻 Help me in - Cloud Computing ☁💻 and DevOps
+- 💻 Help me in - Cloud Computing ☁💻 and Game Development
 
 - 😃 Pronouns - Him/He
 
