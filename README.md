@@ -58,6 +58,8 @@ alt="pankaj_ig_" height="40" width="40" /></a>
 <img align="center" src="https://img.icons8.com/dusk/64/000000/dribbble.png" alt="pankaj892" height="40" width="40" /></a>
 <a href="https://facebook.com/eduardo.saverin.892/" target="_blank" >
 <img align="center" src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" alt="pankaj_facebook" height="40" width="40" /></a>
+ <a href="https://gitlab.com/pankaj892" target="_blank" >
+ <img align="center" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab_icon" height="40" width="40"/></a>
 </p>
 
 <h3>
