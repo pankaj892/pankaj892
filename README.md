@@ -85,11 +85,15 @@ width="400" />
 </details>
 </h3>
 
+
+![Readme Views](https://hit.yhype.me/github/profile?user_id=31444506)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=pankaj892)](https://github.com/pankaj892/github-profile-trophy)
 
 ![alt text](/pagespeed-insights.herokuapp.svg "tooltip text")
 
 [![Pankaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=pankaj892&theme=react-dark)](https://github.com/pankaj892/github-readme-activity-graph)
+
 
 
 
