@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on - Python and Cloud Computing.
 
-- 💬 Ask me about - Custom ROMS,Android,Video Games🎮. 
+- 💬 Ask me about - Custom ROMS,Video Games🎮,Linux  
 
 - 🥅 2021 Goal - Contribute as much as possible to Open Source.
 
