@@ -14,7 +14,7 @@
 
 - 💬 Ask me about - Custom ROMS,Video Games🎮,Linux  
 
-- 🥅 2021 Goal - Contribute as much as possible to Open Source.
+- 🥅 2021 Goal - Be a part of Open Source Revolution 🔥.
 
 - ⚡ Fun fact - I prefer tabs over spaces 
 
