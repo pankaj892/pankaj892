@@ -1,7 +1,7 @@
 
 <img align="right"  width="350" src="./pic2.jpg">
 
-# Hi I am Pankaj Biradar an Open Source Enthusiast and a Python Developer
+# Hi I am Pankaj Biradar an Open Source Contributor and a Python Developer
 
 <h3 align="left">
  About Me ! </h3>
