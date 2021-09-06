@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on - Python and Cloud Computing.
 
-- 💬 Ask me about - Custom ROMS,Video Games🎮,Linux  
+- 💬 Ask me about - Custom ROMS,Video Games🎮,Linux 🐧  
 
 - 🥅 2021 Goal - Be a part of Open Source Revolution 🔥.
 
-- ⚡ Fun fact - I prefer tabs over spaces 
+- ⚡ Fun fact - I love board games 
 
 - 💻 Help me in - Cloud Computing ☁💻 and Game Development
 
