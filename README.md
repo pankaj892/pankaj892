@@ -92,7 +92,7 @@ width="400" />
 
 ![alt text](/pagespeed-insights.herokuapp.svg "tooltip text")
 
-[![Pankaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=pankaj892&theme=react-dark)](https://github.com/pankaj892/github-readme-activity-graph)
+[![Pankaj's github activity graph](https://readme-graph.herokuapp.com/graph?username=pankaj892&theme=react-dark)](https://github.com/pankaj892/github-readme-activity-graph)
 
 
 
