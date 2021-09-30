@@ -1,8 +1,8 @@
+<img src="./Pankaj%20Biradar's-cover.png" alt="Pankaj's Cover Image">
 
-<img align="right"  width="350" src="./pic2.jpg">
 
 # Hi I am Pankaj Biradar an Open Source Contributor and a Python Developer
-
+<img align="right"  width="350" src="./pic2.jpg">
 <h3 align="left">
  About Me ! </h3>
 
