@@ -91,11 +91,6 @@ width="400" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pankaj892)](https://github.com/pankaj892/github-profile-trophy)
 
-![alt text](/pagespeed-insights.herokuapp.svg "tooltip text")
-
-[![Pankaj's github activity graph](https://readme-graph.herokuapp.com/graph?username=pankaj892&theme=react-dark)](https://github.com/pankaj892/github-readme-activity-graph)
-
-
 
 
 ![Metrics](https://metrics.lecoq.io/pankaj892?template=classic&isocalendar=1&introduction=1&stars=1&achievements=1&repositories=1&people=1&activity=1&notable=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=public&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=10&notable.repositories=false&config.timezone=Asia%2FKolkata)
