@@ -349,7 +349,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 11 Nov 2021, 14:37:51
+Last generated: 11 Nov 2021, 15:37:58
 </div>
 <div class="stdin"><span class="ps1-path">pankaj892@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>pankaj892</b> registered=4y, uid=4506, gid=3
   contributed to 143 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -398,7 +398,7 @@ dr-x         LICENSE
 <b>SCSS        </b> [#                   ] 1.16 %
 </div>
 <div class="stdin"><span class="ps1-path">pankaj892@metrics</span>:<span class="ps1-location">~</span>$ curl -I </div><div class="stdout"><span class="error">API returned 429</span></div>
-<footer>Connection reset by 225.98.54.82</footer></pre>
+<footer>Connection reset by 245.96.183.127</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
