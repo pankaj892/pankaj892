@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1481" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1570" class="">
   
 
   <defs><style>@font-face {
@@ -365,7 +365,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 23 Nov 2021, 04:37:52
+Last generated: 23 Nov 2021, 05:55:22
 </div>
 <div class="stdin"><span class="ps1-path">pankaj892@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>pankaj892</b> registered=4y, uid=4506, gid=3
   contributed to 143 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -413,7 +413,13 @@ dr-x         LICENSE
 <b>RUBY        </b> [#                   ] 1.35 %
 <b>SCSS        </b> [#                   ] 1.16 %
 </div>
-<div class="stdin"><span class="ps1-path">pankaj892@metrics</span>:<span class="ps1-location">~</span>$ curl -I </div><div class="stdout"><span class="error">API returned 429</span></div>
+<div class="stdin"><span class="ps1-path">pankaj892@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://pankaj892.live</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
+<b>Location</b>: https://pankaj892.live
+<b>X-Performance</b>: 99%
+<b>X-Accessibility</b>: 79%
+<b>X-Best-Practices</b>: 100%
+<b>X-SEO</b>: 80%
+</div>
 <div class="stdin"><span class="ps1-path">pankaj892@metrics</span>:<span class="ps1-location">~</span>$ ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">
               
@@ -1347,6 +1353,11 @@ dr-x         LICENSE
                       <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                       <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                    </g>
+                    <g transform="translate(-3.4, 8)">
+                      <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                      <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                     </g></g></g></svg></div>
 <b>    0</b> consecutive days with commits
 <b>~0.43</b> commits per day in average
@@ -1354,7 +1365,7 @@ dr-x         LICENSE
 
 
 
-<footer>Connection reset by 217.166.129.237</footer></pre>
+<footer>Connection reset by 188.235.226.45</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
