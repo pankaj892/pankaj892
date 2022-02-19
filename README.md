@@ -7,17 +7,17 @@
 <h3 align="left">
  About Me ! </h3>
 
-- 🔭 I’m currently working on - Python 
+- 🔭 I’m currently working on - Java 
 
-- 🌱 I’m currently learning - Python,Cloud Computing ☁💻.
+- 🌱 I’m currently learning - Java,Cloud Computing ☁💻.
 
 - 👯 I’m looking to collaborate on - Python and Cloud Computing.
 
-- 💬 Ask me about - Custom ROMS,Linux 🐧  
+- 💬 Ask me about - Open Source,Movies🎬  
 
 - 🥅 2021 Goal - Be a part of Open Source Revolution 🔥.
 
-- ⚡ Fun fact - I love board games 
+- ⚡ Fun fact - I love lego
 
 - 💻 Help me in - Cloud Computing ☁💻 and Game Development
 
