@@ -1,7 +1,7 @@
 <img src="./Pankaj%20Biradar's-cover.png" alt="Pankaj's Cover Image">
 
 
-# Hi 👋 I am Pankaj Biradar an Open Source Contributor and a Python Developer
+# Hi 👋 I am Pankaj Biradar an Open Source Contributor and a Developer
 <img align="right"  width="350" src="./pic2.jpg">
 
 <h3 align="left">
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning - Java,Cloud Computing ☁💻.
 
-- 👯 I’m looking to collaborate on - Python and Cloud Computing.
+- 👯 I’m looking to collaborate on - Cloud Computing.
 
 - 💬 Ask me about - Open Source,Movies🎬  
 
-- 🥅 2021 Goal - Be a part of Open Source Revolution 🔥.
+- 🥅 2022 Goal - Learn to be a part of Open Source culture
 
-- ⚡ Fun fact - I love lego
+- ⚡ Fun fact - I don't hate people who use spaces over tabs 😁
 
 - 💻 Help me in - Cloud Computing ☁💻 and Game Development
 
