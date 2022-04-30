@@ -91,5 +91,4 @@ width="400" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pankaj892)](https://github.com/pankaj892/github-profile-trophy)
 
-![Metrics](https://metrics.lecoq.io/pankaj892?template=classic&isocalendar=1&languages=1&stars=1&activity=1&achievements=1&notable=1&skyline=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=10&notable.from=organization&notable.repositories=true&notable.indepth=false&notable.types=commit&skyline.year=current-year&skyline.frames=60&skyline.quality=1.5&skyline.compatibility=true&config.timezone=Asia%2FKolkata)
-
+![Metrics](./github-metrics.svg)
