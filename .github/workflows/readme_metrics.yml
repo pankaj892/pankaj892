@@ -51,8 +51,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_projects: yes
-          plugin_projects_limit: 4
+          plugin_projects: no
           plugin_skyline: yes
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
