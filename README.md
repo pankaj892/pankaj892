@@ -7,13 +7,13 @@
 <h3 align="left">
  About Me ! </h3>
 
-- 🔭 I’m currently working on - Java 
+- 🔭 I’m currently working on - Python
 
-- 🌱 I’m currently learning - Java,Cloud Computing ☁💻.
+- 🌱 I’m currently learning - Microsot Azure ☁💻.
 
 - 👯 I’m looking to collaborate on - Cloud Computing.
 
-- 💬 Ask me about - Open Source,Movies🎬  
+- 💬 Ask me about - Open Source,Gaming 🎮  
 
 - 🥅 2022 Goal - Learn to be a part of Open Source culture
 
