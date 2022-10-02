@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact - I don't hate people who use spaces over tabs 😁
 
-- 💻 Help me in - Cloud Computing ☁💻 and Game Development
+- 💻 Help me in - Cloud Computing ☁💻
 
 - 😃 Pronouns - Him/He
 
