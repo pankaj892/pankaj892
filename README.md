@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning - Microsot Azure ☁💻.
 
-- 👯 I’m looking to collaborate on - Cloud Computing.
+- 👯 I’m looking to collaborate on - Cloud Computing☁️🖥️.
 
 - 💬 Ask me about - Open Source,Gaming 🎮  
 
