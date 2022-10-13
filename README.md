@@ -15,9 +15,9 @@
 
 - 💬 Ask me about - Open Source,Gaming 🎮  
 
-- 🥅 2022 Goal - Learn to be a part of Open Source culture
+- 🥅 2022 Goal - Learn to be a part of Open Source culture.
 
-- ⚡ Fun fact - I don't hate people who use spaces over tabs 😁
+- ⚡ Fun fact - Most Devs would still prefer Windows🪟 as their main OS
 
 - 💻 Help me in - Cloud Computing ☁💻
 
