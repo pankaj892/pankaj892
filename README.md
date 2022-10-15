@@ -17,9 +17,9 @@
 
 - 🥅 2022 Goal - Learn to be a part of Open Source culture.
 
-- ⚡ Fun fact - Most Devs would still prefer Windows🪟 as their main OS
+- ⚡ Fun fact - Most Devs would still prefer Windows🪟 as their main OS.
 
-- 💻 Help me in - Cloud Computing ☁💻
+- 💻 Help me in - Cloud Computing ☁💻.
 
 - 😃 Pronouns - Him/He
 
