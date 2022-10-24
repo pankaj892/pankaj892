@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on - Cloud Computing☁️🖥️.
 
-- 💬 Ask me about - Open Source,Gaming 🎮  
+- 💬 Ask me about - Open Source,Gaming 🎮.
 
 - 🥅 2022 Goal - Learn to be a part of Open Source culture.
 
@@ -21,7 +21,7 @@
 
 - 💻 Help me in - Cloud Computing ☁💻.
 
-- 😃 Pronouns - Him/He
+- 😃 Pronouns - Him/He.
 
 - 📧 How to reach me - **pankaj28988@gmail.com**
 
