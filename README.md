@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on - Python 🐍
 
-- 🌱 I’m currently learning - Microsot Azure ☁💻.
+- 🌱 I’m currently learning - Microsoft Azure ☁💻.
 
 - 👯 I’m looking to collaborate on - Cloud Computing☁️🖥️.
 
