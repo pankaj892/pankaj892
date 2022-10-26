@@ -7,7 +7,7 @@
 <h3 align="left">
  About Me ! </h3>
 
-- 🔭 I’m currently working on - Python 🐍
+- 🔭 I’m currently working on - Python 🐍.
 
 - 🌱 I’m currently learning - Microsoft Azure ☁💻.
 
