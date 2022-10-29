@@ -15,7 +15,7 @@
 
 - 💬 Ask me about - Open Source,Gaming 🎮.
 
-- 🥅 2022 Goal - Learn to be a part of Open Source culture.
+- 🥅 2022 Goal - Learn to be a part of Open Source culture🔥.
 
 - ⚡ Fun fact - Most Devs would still prefer Windows🪟 as their main OS.
 
