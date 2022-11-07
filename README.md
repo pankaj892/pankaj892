@@ -1,11 +1,10 @@
 <img src="./Pankaj%20Biradar's-cover.png" alt="Pankaj's Cover Image">
 
 
-# Hi 👋 I am Pankaj Biradar an Open Source Contributor and a Developer
+# Hi👋 I am Pankaj Biradar an Open Source Contributor and a Developer
 <img align="right"  width="350" src="./pic2.jpg">
 
-<h3 align="left">
- About Me ! </h3>
+<h3 align="left">About Me ! </h3>
 
 - 🔭 I’m currently working on - Python 🐍.
 
@@ -46,6 +45,8 @@
  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt = "flutter" width="40" height="40"/></a>
  <a href="https://cloud.google.com/" target="_blank">
  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="40" height="40"/></a>
+ <a href="https://azure.microsoft.com" target="_blank">
+ <img src="https://img.icons8.com/fluency/48/null/azure-1.png"/ alt="Microsoft Azure" width="40" height="40"/></a>
 </p>
 
 <h3 align="left"> Connect with Me: </h3>
