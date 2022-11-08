@@ -82,13 +82,8 @@ width="400" />
 </details>
 </h3>
 
-<h3>
-<details>
-<summary><strong>My Github Streak</strong></summary>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankaj892&show_icons=true&locale=en&layout=compact" alt="Pankaj's github streak" width="450" />
-</details>
-</h3>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=pankaj892&theme=flag-india&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pankaj892)](https://github.com/pankaj892/github-profile-trophy)
 
