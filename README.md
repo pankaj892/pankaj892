@@ -22,7 +22,7 @@
 
 - 😃 Pronouns - Him/He.
 
-- 📧 How to reach me - **pankaj28988@gmail.com**
+- 📧 How to reach me - [Email](mailto:pankaj28988@gmail.com)
 
 
 
