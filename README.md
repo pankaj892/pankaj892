@@ -14,7 +14,7 @@
 
 - 💬 Ask me about - Open Source,Gaming 🎮.
 
-- 🥅 2022 Goal - Learn to be a part of Open Source culture.
+- 🥅 2023 Goal - Learn to be a part of Open Source culture.
 
 - ⚡ Fun fact - I prefer tea over coffee ☕.
 
