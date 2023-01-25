@@ -69,7 +69,7 @@ alt="pankaj_ig_" height="40" width="40" /></a>
 <h3>
 <details>
 <summary><strong>My Github Stats</strong></summary>
-<img src = "https://github-readme-stats.vercel.app/api?username=pankaj892&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" alt="Pankaj's Github Stats"
+<img src = "https://github-readme-stats-pankaj892.vercel.app/api?username=pankaj892&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" alt="Pankaj's Github Stats"
 width="400" />
 </details>
 </h3>
