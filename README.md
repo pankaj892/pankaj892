@@ -78,7 +78,7 @@ width="400" />
 <h3>
 <details>
 <summary><strong>Mostly Used Languages </strong></summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj892&layout=compact" alt="Pankaj's mostly used Languages"/>
+<img src="https://github-readme-stats-pankaj892.vercel.app/api/top-langs/?username=pankaj892&layout=compact" alt="Pankaj's mostly used Languages"/>
 </details>
 </h3>
 
