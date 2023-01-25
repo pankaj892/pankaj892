@@ -74,6 +74,10 @@ width="400" />
 </details>
 </h3>-->
 
+ ![Readme Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pankaj892&theme=github) 
+ 
+ ![Language Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pankaj892&theme=github)
+
 
 <h3>
 <details>
