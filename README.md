@@ -66,19 +66,22 @@ alt="pankaj_ig_" height="40" width="40" /></a>
  <img align="center" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab_icon" height="40" width="40"/></a>
 </p>
 
-<h3>
+<!--<h3>
 <details>
 <summary><strong>My Github Stats</strong></summary>
 <img src = "https://github-readme-stats-pankaj892.vercel.app/api?username=pankaj892&count_private=true&include_all_commits=true&theme=buefy&show_icons=true" alt="Pankaj's Github Stats"
 width="400" />
 </details>
-</h3>
+</h3>-->
 
 
 <h3>
 <details>
 <summary><strong>Mostly Used Languages </strong></summary>
-<img src="https://github-readme-stats-pankaj892.vercel.app/api/top-langs/?username=pankaj892&layout=compact" alt="Pankaj's mostly used Languages"/>
+<!--<img src="https://github-readme-stats-pankaj892.vercel.app/api/top-langs/?username=pankaj892&layout=compact" alt="Pankaj's mostly used Languages"/>-->
+<!--START_SECTION:top_language-->
+
+<!--END_SECTION:top_language-->
 </details>
 </h3>
 
