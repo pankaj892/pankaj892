@@ -38,7 +38,7 @@ jobs:
           plugin_activity_visibility: all
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
@@ -46,7 +46,6 @@ jobs:
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_from: organization
