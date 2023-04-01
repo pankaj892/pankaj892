@@ -4,7 +4,7 @@
 # Hi👋 I am Pankaj Biradar an Open Source Contributor and a Developer
 <img align="right"  width="350" src="./pic2.jpg">
 
-<h3 align="left">About Me ! </h3>
+<h3 align="left">About Me !</h3>
 
 - 🔭 I’m currently working on - Python 🐍.
 
