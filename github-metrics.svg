@@ -1258,7 +1258,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kousiknath/LowLevelDesign</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Various Low Level Object Oriented System Design problems are discussed in this space</div>
@@ -1709,7 +1709,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 120k out of 118m users</span>
+                                    <span class="gh">ranked 120k out of 120m users</span>
                                 </div>
                                 <div class="text">Published 119 public repositories</div>
                             </div>
@@ -1968,7 +1968,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 920k out of 118m users</span>
+                                    <span class="gh">ranked 920k out of 120m users</span>
                                 </div>
                                 <div class="text">Followed by 14 users</div>
                             </div>
@@ -2080,7 +2080,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.15m out of 64.8m repositories</span>
+                                    <span class="gh">ranked 3.22m out of 58.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2132,7 +2132,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Sept 2023, 23:31:43 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Sept 2023, 00:31:21 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
