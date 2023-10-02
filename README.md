@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact - I prefer tea over coffee ☕.
 
-- 💻 Help me in - Cloud Computing ☁💻.
+- 💻 Help me in - DevOps.
 
 - 😃 Pronouns - Him/He.
 
