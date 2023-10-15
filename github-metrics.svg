@@ -1782,7 +1782,7 @@ This reverts commit 366353fdd2298c541bb485c8d29b52e4dcf86e63.</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 115k out of 120m users</span>
+                                    <span class="gh">ranked 115k out of 121m users</span>
                                 </div>
                                 <div class="text">Published 122 public repositories</div>
                             </div>
@@ -2041,7 +2041,7 @@ This reverts commit 366353fdd2298c541bb485c8d29b52e4dcf86e63.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 866k out of 120m users</span>
+                                    <span class="gh">ranked 866k out of 121m users</span>
                                 </div>
                                 <div class="text">Followed by 15 users</div>
                             </div>
@@ -2153,7 +2153,7 @@ This reverts commit 366353fdd2298c541bb485c8d29b52e4dcf86e63.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.10m out of 52.3m repositories</span>
+                                    <span class="gh">ranked 3.28m out of 48.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2205,7 +2205,7 @@ This reverts commit 366353fdd2298c541bb485c8d29b52e4dcf86e63.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Oct 2023, 01:31:31 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Oct 2023, 02:31:30 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
