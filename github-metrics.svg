@@ -1790,7 +1790,7 @@ Add files</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 113k out of 122m users</span>
+                                    <span class="gh">ranked 113k out of 121m users</span>
                                 </div>
                                 <div class="text">Published 123 public repositories</div>
                             </div>
@@ -2049,7 +2049,7 @@ Add files</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 866k out of 122m users</span>
+                                    <span class="gh">ranked 866k out of 121m users</span>
                                 </div>
                                 <div class="text">Followed by 15 users</div>
                             </div>
@@ -2161,7 +2161,7 @@ Add files</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.10m out of 56m repositories</span>
+                                    <span class="gh">ranked 3.28m out of 52m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2213,7 +2213,7 @@ Add files</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Oct 2023, 22:31:41 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Oct 2023, 23:38:03 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
