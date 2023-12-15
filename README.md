@@ -55,9 +55,7 @@
 <img align="center" src="https://img.icons8.com/windows/32/26e07f/dev.png" alt="pankaj892" height="40" width="40" /></a>
 <a href="https://twitter.com/pankaj89tweets" target="_blank"> 
 <img align="center" src="https://img.icons8.com/fluent/48/26e07f/twitter.png" alt="pankaj89tweets" height="40" width="40" /></a> 
-<a href="https://in.linkedin.com/in/pankaj-biradar" target="_blank"> <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="pankaj_linkedin" height="40" width="40" /></a> 
-<a href="https://www.instagram.com/_pankaj89_/" target="_blank" ><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
-alt="pankaj_ig_" height="40" width="40" /></a> 
+<a href="https://www.linkedin.com/in/pankaj-biradar" target="_blank"> <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="pankaj_linkedin" height="40" width="40" /></a> 
 <a href="https://dribbble.com/pankaj892" target="_blank" > 
 <img align="center" src="https://img.icons8.com/dusk/64/000000/dribbble.png" alt="pankaj892" height="40" width="40" /></a>
 <a href="https://facebook.com/eduardo.saverin.892/" target="_blank" >
