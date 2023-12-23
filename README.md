@@ -53,14 +53,10 @@
 <p align="left">
 <a href="https://dev.to/pankaj892" target="blank"> 
 <img align="center" src="https://img.icons8.com/windows/32/26e07f/dev.png" alt="pankaj892" height="40" width="40" /></a>
-<a href="https://twitter.com/pankaj89tweets" target="_blank"> 
-<img align="center" src="https://img.icons8.com/fluent/48/26e07f/twitter.png" alt="pankaj89tweets" height="40" width="40" /></a> 
 <a href="https://www.linkedin.com/in/pankaj-biradar" target="_blank"> <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="pankaj_linkedin" height="40" width="40" /></a> 
 <a href="https://dribbble.com/pankaj892" target="_blank" > 
 <img align="center" src="https://img.icons8.com/dusk/64/000000/dribbble.png" alt="pankaj892" height="40" width="40" /></a>
-<a href="https://facebook.com/eduardo.saverin.892/" target="_blank" >
-<img align="center" src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" alt="pankaj_facebook" height="40" width="40" /></a>
- <a href="https://gitlab.com/pankaj892" target="_blank" >
+<a href="https://gitlab.com/pankaj892" target="_blank" >
  <img align="center" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab_icon" height="40" width="40"/></a>
 </p>
 
