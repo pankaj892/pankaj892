@@ -1,7 +1,7 @@
 <img src="./Pankaj%20Biradar's-cover.png" alt="Pankaj's Cover Image">
 
 
-# Hi👋 I am Pankaj Biradar an Open Source Contributor and a Developer
+# Hi👋 I am Pankaj Biradar a Developer with a focus on Cloud ☁️
 <img align="right"  width="350" src="./pic2.jpg">
 
 <h3 align="left">About Me !</h3>
@@ -12,9 +12,7 @@
 
 - 👯 I’m looking to collaborate on - Cloud Computing☁️🖥️.
 
-- 💬 Ask me about - Open Source,Gaming 🎮.
-
-- 🥅 2023 Goal - Learn to be a part of Open Source culture.
+- 💬 Ask me about - Gaming 🎮.
 
 - ⚡ Fun fact - I prefer tea over coffee ☕.
 
@@ -23,7 +21,6 @@
 - 😃 Pronouns - Him/He.
 
 - 📧 How to reach me - [Email](mailto:pankaj28988@gmail.com)
-
 
 
 <h3 align="left"> Languages and Tools I use:</h3>
