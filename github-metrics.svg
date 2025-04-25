@@ -1249,7 +1249,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nccgroup/sadcloud</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure</div>
@@ -1302,7 +1302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/azuredevopslabs</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.</div>
@@ -1355,7 +1355,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thyagomota/aws-labs</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of hands-on labs to help learning the fundamentals of AWS cloud computing services.</div>
@@ -1408,7 +1408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anthropics/courses</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Anthropic's educational courses</div>
@@ -1582,7 +1582,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Apr 2025, 13:42:38 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Apr 2025, 14:39:30 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
