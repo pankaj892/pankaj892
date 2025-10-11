@@ -1254,7 +1254,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bjnandi/containerize-full-stack-app-MERN-with-docker-compose</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">For the dockerize a full stack web MERN application using docker-compose we create separate ‘Dockerfile’ for the frontend (client) &amp; backend (server) to create a docker image and we use MongoDB official docker imager for containerizing and defining their configurations in a docker-compose.yml file.</div>
@@ -1599,7 +1599,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Oct 2025, 23:40:08 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Oct 2025, 00:31:17 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
